@@ -403,4 +403,39 @@ footer span {
 .contact h2{
     padding-bottom: 40px;
 }
+.footer img {
+    width: 25px;
+    height: 24px;
+}
+
+.foot-container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+
+.text {
+  font-size: 17px;
+}
+a:link {
+  color: White;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: White;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: White;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: White;
+  background-color: transparent;
+  text-decoration: underline;
+}
 
