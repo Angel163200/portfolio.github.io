@@ -418,22 +418,22 @@ footer span {
   font-size: 17px;
 }
 a:link {
-  color: White;
+  color: Black;
   background-color: transparent;
   text-decoration: none;
 }
 a:visited {
-  color: White;
+  color: Black;
   background-color: transparent;
   text-decoration: none;
 }
 a:hover {
-  color: White;
+  color: Black;
   background-color: transparent;
   text-decoration: underline;
 }
 a:active {
-  color: White;
+  color: Black;
   background-color: transparent;
   text-decoration: underline;
 }
